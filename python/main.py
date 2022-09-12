@@ -25,3 +25,27 @@
     # else:
         # sy = sy + 1
 # print(f"chars = {c}\ndigits = {d}\nsymbol = {sy}")
+
+# ques
+# a = 2
+# for a in range(a,20+1,2):
+    # print(a)
+
+#  ques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
